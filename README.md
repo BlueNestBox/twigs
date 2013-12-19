@@ -1,4 +1,6 @@
-twigs
-=====
+##BlueNestBox's Twigs
+===================
 
-Collection of blog posts
+Blog posts about Twitter.
+
+by @DieLaughing (J. Adam Moore)
